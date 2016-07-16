@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVCSample</string>
+
+    <string-array name="name_list">
+        <item>jack</item>
+        <item>jane</item>
+        <item>wangyijie</item>
+        <item>machel</item>
+    </string-array>
+</resources>
